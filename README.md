@@ -14,7 +14,7 @@ Check out the live demo [here](https://majidnazir539.github.io/Tindog/).
 ## Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/tindog.git
+   git clone https://github.com/majidnazir539/tindog.git
    cd tindog
 
 Note: Tindog is a project created for educational and fun purposes. It is not affiliated with or endorsed by Tinder.
